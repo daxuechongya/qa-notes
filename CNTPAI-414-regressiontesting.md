@@ -61,3 +61,9 @@
 ##### TC31: Homepage -> Image generator -> Single mood generation -> Upload custom image -> Click to upload or drag and drop ->  Manual configuration ->Generate by prompt -> Generate prompt -> Wait for prompt display -> Generate images -> Waiting for images generate success(two images) -> Enable 'Try Agent Feedback' -> improve image -> regenerate(can regenerate several rounds) -> Waiting for images generate success(two images) -> Reject Results -> Type reject reason and submit -> Can see Start new generation
 ---
 ##### TC32:  Homepage -> Image generator -> Single mood generation -> Upload custom image -> Click to upload or drag and drop ->  Manual configuration -> Generate by prompt -> Generate prompt -> Wait for prompt display -> Generate images -> Waiting for images generate success(two images) -> Enable 'Try Agent Feedback' -> improve image -> regenerate(can regenerate several rounds) -> Waiting for images generate success(two images) -> Select one image and Accept Selected -> Can see result table -> Check the information and click download icon -> Publish it (don't forgot to delete it on salsify) -> Can see Start new generation
+---
+##### TC33: Homepage -> Batch generation -> Upload XLS file button -> Click to Upload -> Verify SKU information -> Click Upload -> Observe the running process -> The process precent audo-updated -> Go to Batch Detail -> The record auto-updated -> Check the records check the column -> Check the per page button and pagination ifo -> Check the count of batch detail -> Delete a SKU and regenerate -> check the count -> Select a SKU and publish -> Select some SKUs and publish -> Observe published count
+---
+##### TC34 Homepage -> Batch generation -> Search for batch -> change the per page and see search on this page or all records
+---
+##### TC35 Homepage -> Batch generation -> Batch detail -> Search for SKU 
